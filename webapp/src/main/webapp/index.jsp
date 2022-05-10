@@ -21,7 +21,7 @@
 }
 
 .left {
-	background-image: url(http://source.unsplash.com/0-frPETzEVs);
+	
 	height: 700px;
 	background-repeat: no-repeat;
 	margin: 0 auto;
@@ -80,7 +80,7 @@ footer p {
 }
     </style>
 
-	<div class="col left col-md-6"><img class="cover-img" src="">
+	<div class="col left col-md-6"><img class="cover-img" src="http://source.unsplash.com/0-frPETzEVs">
 	</div>
 
 
