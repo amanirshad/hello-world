@@ -80,7 +80,7 @@ footer p {
 }
     </style>
 
-	<div class="col left col-md-6"><img class="cover-img" src="http://source.unsplash.com/0-frPETzEVs">
+	<div class="col left col-md-6"><img class="cover-img" src="https://images.unsplash.com/photo-1490312278390-ab64016e0aa9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxfDB8MXxhbGx8fHx8fHx8fA&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit">
 	</div>
 
 
