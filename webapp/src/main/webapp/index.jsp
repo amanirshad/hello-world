@@ -102,7 +102,7 @@ footer p {
 			
 
 			<footer>
-				<p>developed by <a href="#">Aman Irshad, Komal Pathak, Sai Aheesh D, Saurabh Bisht</a></p>
+				<p>developed by <a href="#">Aman Irshad, Komal Pathak, Sai Aheesh D, Saurabh Bisht.</a></p>
 			</footer>
 		</div>
 	</div>
